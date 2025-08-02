@@ -1,0 +1,8 @@
+[package]
+name = "remove_private"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+regex = "1.11.1"
+copypasta = "0.10.2"
