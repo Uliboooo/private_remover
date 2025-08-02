@@ -1,5 +1,6 @@
-```markdown
-# URL Cleaner
+# private_remover
+
+**the README was written by Gemini**
 
 URL Cleanerは、URLから不要なパラメータを削除し、共有に適した短いURLを生成するシンプルなコマンドラインツールです。特に、YouTubeのURLを短縮し、クリップボードにコピーする機能に特化しています。
 
@@ -15,14 +16,6 @@ URL Cleanerは、URLから不要なパラメータを削除し、共有に適し
 *   **Rust:** 高速で安全なシステムプログラミング言語。
 *   **Regex:** 正規表現エンジン。
 *   **copypasta:** クリップボード操作を行うためのクレート。
-
-## インストール
-
-Rust toolchainがインストールされていることを前提とします。まだの場合は、[rustup](https://rustup.rs/) を使用してインストールしてください。
-
-```bash
-cargo install url_cleaner
-```
 
 ## 実行方法
 
@@ -69,5 +62,5 @@ pasted to clipboard: https://example.com/path/to/page
 Error: NotFoundURL
 ```
 
-GitHubリポジトリ: [ここにGitHubリポジトリのURLを挿入]
-```
+GitHubリポジトリ: https://github.com/Uliboooo/private_remover
+
