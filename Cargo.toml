@@ -1,7 +1,9 @@
 [package]
 name = "remove_private"
+authors = ["Uliboooo uliboulibo@gmail.com"]
 version = "0.1.1"
 edition = "2024"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 regex = "1.11.1"
