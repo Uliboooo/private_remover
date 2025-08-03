@@ -34,7 +34,7 @@ pasted to clipboard: https://youtu.be/dQw4w9WgXcQ
 汎用的なURLクリーニングの例：
 
 ```bash
-url_cleaner "https://example.com/path/to/page?param1=value1&param2=value2"
+prr "https://example.com/path/to/page?param1=value1&param2=value2"
 ```
 
 結果：
