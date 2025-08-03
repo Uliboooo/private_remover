@@ -22,7 +22,7 @@ URL Cleanerは、URLから不要なパラメータを削除し、共有に適し
 コマンドラインから `url_cleaner` コマンドを実行し、URLを引数として渡します。
 
 ```bash
-url_cleaner "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+prr "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
 ```
 
 上記のコマンドを実行すると、ターミナルに以下のメッセージが表示され、クリップボードに短縮されたURLがコピーされます。
@@ -48,10 +48,6 @@ pasted to clipboard: https://example.com/path/to/page
 1.  **YouTubeの動画を共有する:** YouTubeのURLをコマンドに渡し、短縮されたURLを友達に送ります。
 2.  **長いURLを短くする:** ウェブサイトのURLからトラッキングパラメータを削除し、共有しやすくします。
 3.  **スクリプトで利用する:** URLをプログラムで処理し、他のアプリケーションに渡します。
-
-## ライセンス
-
-このプロジェクトはMITライセンスでライセンスされています。 詳しくは `LICENSE` ファイルを参照してください。
 
 ## その他の指示
 
